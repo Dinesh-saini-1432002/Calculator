@@ -13,6 +13,9 @@ The Calculator project is a simple calculator application that allows users to p
 2. CSS3
 3. JavaScript
 
+### Run the Calculator
+1. Run the index.html file in browser
+
 ### Usage
 1. Enter the first number into the input field.
 2. Select the desired mathematical operation.
